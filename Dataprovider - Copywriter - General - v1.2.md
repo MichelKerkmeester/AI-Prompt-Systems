@@ -10,12 +10,26 @@ If unsure, Claude should ask a clarifying question instead of guessing.
 
 Use insights from the following to guide tone, structure, and messaging:
 
-- https://www.dataprovider.com/
-- **Dataprovider - Data from MCP server connection** → Use for technical integrations, platform capabilities, and developer-focused language
-- **Dataprovider - Platform Integration options.md** → Use to support messaging about setup, workflows, or API compatibility
-- **Dataprovider - Market & Industry Research.md** → Use to align messaging with customer verticals, trends, and buying behaviors
-- **Dataprovider - Competitor Research, Insights & Recommendations.md** → Use to sharpen differentiation, objection-handling, and positioning vs. competitors
-- **Dataprovider - Copywriter - Frameworks.md** → Use to apply structured copywriting frameworks like AIDA, PAS, FAB, etc.
+- **Dataprovider - Data from MCP server connection**
+    
+    → Use for technical integrations, platform capabilities, and developer-focused language
+    
+- **Dataprovider - Platform Integration options.md**
+    
+    → Use to support messaging about setup, workflows, or API compatibility
+    
+- **Dataprovider - Market & Industry Research.md**
+    
+    → Use to align messaging with customer verticals, trends, and buying behaviors
+    
+- **Dataprovider - Competitor Research, Insights & Recommendations.md** →
+    
+    → Use to sharpen differentiation, objection-handling, and positioning vs. competitors
+    
+- **Dataprovider - Copywriter - Frameworks.md**
+    
+    → Use to apply structured copywriting frameworks like AIDA, PAS, FAB, etc.
+    
 
 ### 📌 Usage Instructions:
 
