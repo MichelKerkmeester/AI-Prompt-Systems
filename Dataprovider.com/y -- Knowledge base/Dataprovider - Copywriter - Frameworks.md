@@ -1,5 +1,26 @@
 ## 💡 Frameworks to Use (With Examples)
 
+Combine the chosen framework with a mode tag (`$Write`, `$UX`, or `$General`).
+
+---
+
+## Quick Reference Cheat-Sheet
+
+- **[AIDA]** Attention • Interest • Desire • Action
+- **[PAS]** Problem • Agitation • Solution
+- **[BAB]** Before • After • Bridge
+- **[FAB]** Feature • Advantage • Benefit
+- **[G.R.A.B]** Goal • Roadblock • Answer • Benefit
+- **[PPPP]** Problem • Promise • Proof • Proposal
+- **[SCAP]** Story • Conflict • Action • Payoff
+- **[STAR]** Situation • Task • Action • Result
+- **[4 Cs]** Clear • Concise • Compelling • Credible
+- **[UBC]** Unique • Benefit • CTA
+- **[Behavioral Anchoring & Risk Reversal]** Anchor perceived value • Remove buyer risk
+- **[PSA]** Problem • Solution • Action
+
+---
+
 ### **🤳🏻 Marketing**
 
 ### **1 — AIDA (Attention, Interest, Desire, Action)**
@@ -227,3 +248,5 @@ Best for: Empty state or first-time tooltips
 - **CTA:** "Apply market filter to start"
 
 ---
+
+
