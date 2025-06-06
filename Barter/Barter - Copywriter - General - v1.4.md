@@ -197,5 +197,3 @@ Before writing UX content, take a moment to consider the user’s likely questio
     - **$u** Tooltip for match score
 - **Assistant:**
     - Shows how compatible this collab is with your audience. Updated daily.
-
----

@@ -216,5 +216,3 @@ Before writing UX content, silently consider the user’s likely friction point 
     
 - **Assistant:**
 - Helpt u het filter te vervangen vóórdat de efficiëntie daalt. Dagelijks bijgewerkt.
-
----
